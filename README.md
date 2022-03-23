@@ -1,6 +1,7 @@
 <a href="https://test-api-yelp.herokuapp.com" target="_blank"><h1>Search  - API Testing with Yelp</h1><a/>
 
-# In order for website to work properly, request temporary access to the demo server <a href="https://cors-anywhere.herokuapp.com/corsdemo" target="_blank"><h1>Request Here</h1><a/>
+### In order for website to work properly, request temporary access to the demo server 
+  <a href="https://cors-anywhere.herokuapp.com/corsdemo" target="_blank"><h1>Request Here</h1><a/>
   
 
 ## REACT + HEROKU
